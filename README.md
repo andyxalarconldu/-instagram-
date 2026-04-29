@@ -28,6 +28,8 @@ Y muestra:
 ---
 
 ## 📂 Estructura del proyecto
+
+```
 instagram/
 │
 ├── app.py
@@ -35,8 +37,8 @@ instagram/
 ├── requirements.txt
 ├── .gitignore
 └── templates/
-└── index.html
-
+    └── index.html
+```
 ---
 
 ## ⚙️ ¿Cómo funciona?
